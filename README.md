@@ -1,9 +1,18 @@
 # learn-message-server
 Test repo to learn JS backend. Location of most important files.
 
+```
 ├── frontend
-│   ├── src
-│   |  ├── App.js
-├── server
-│   ├── server.js
-└── README.md
+│   ├── node_modules
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── public
+│   ├── README.md
+│   └── src
+├── README.md
+└── server
+    ├── node_modules
+    ├── package.json
+    ├── package-lock.json
+    └── server.js
+```
