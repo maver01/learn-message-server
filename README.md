@@ -24,3 +24,15 @@ Test repo to learn JS backend. Location of most important files.
     ├── package-lock.json
     └── server.js
 ```
+_______________________________________________
+Run frontend locally: 
+From terminal inside frontend:
+```
+npm start
+```
+
+Run server locally: 
+From terminal inside server:
+```
+node server.js
+```
